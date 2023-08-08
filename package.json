@@ -1,0 +1,19 @@
+{
+  "name": "sz-hugo",
+  "version": "1.0.0",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leiax00/sz-hugo.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leiax00/sz-hugo/issues"
+  },
+  "homepage": "https://github.com/leiax00/sz-hugo#readme",
+  "devDependencies": {
+    "prettier": "^3.0.1",
+    "prettier-plugin-go-template": "^0.0.15"
+  }
+}
